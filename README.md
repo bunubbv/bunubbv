@@ -2,4 +2,4 @@
 
 * I'm a student from South Korea, currently preparing to retake the university entrance exam.
 * I have a wide range of interests across different fields and enjoy exploring new topics.
-* Also I'm actively contributing to open-source translation projects, including Immich and Dockge, and I’m currently working on translating Proxmox VE.
+* Also I'm actively contributing to many open-source translation projects, including Immich and Dockge, and I’m currently working on translating Proxmox VE and Navidrome.
